@@ -18,4 +18,4 @@
 1、利用网络购买的摄像头、麦克风、树莓派等完成实际尺作品的制作。
 
 
-![]()
+![](https://github.com/CASTIC2019/GUZHENG/blob/master/72b19c025aafa40fb9562c36a164034f79f0190e.jpg)
